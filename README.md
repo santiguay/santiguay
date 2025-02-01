@@ -63,7 +63,7 @@
 
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=93883558&period=all_times" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=93883558&period=all_times" target="_blank" style="display: block, margin:2 px" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=93883558&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
     <img alt="Contribution Time Distribution of @santiguay" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=93883558&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
